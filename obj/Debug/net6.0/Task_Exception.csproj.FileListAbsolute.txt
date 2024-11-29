@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Task_Exception\Task_Exception\bin\Debug\net6.0\Task_Exception.exe
+C:\Users\user\source\repos\Task_Exception\Task_Exception\bin\Debug\net6.0\Task_Exception.deps.json
+C:\Users\user\source\repos\Task_Exception\Task_Exception\bin\Debug\net6.0\Task_Exception.runtimeconfig.json
+C:\Users\user\source\repos\Task_Exception\Task_Exception\bin\Debug\net6.0\Task_Exception.dll
+C:\Users\user\source\repos\Task_Exception\Task_Exception\bin\Debug\net6.0\Task_Exception.pdb
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.AssemblyInfo.cs
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.dll
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\refint\Task_Exception.dll
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.pdb
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\Task_Exception.genruntimeconfig.cache
+C:\Users\user\source\repos\Task_Exception\Task_Exception\obj\Debug\net6.0\ref\Task_Exception.dll
